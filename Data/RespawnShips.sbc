@@ -9,9 +9,9 @@
         <SubtypeId>RespawnPlanetPod</SubtypeId>
       </Id>
       <DisplayName>DisplayName_PlanetaryLander</DisplayName>
-      <Icon>Textures\GUI\Icons\RespawnShips\Rat-Rod_Truck_Respawncar.png</Icon>
+      <Icon>Textures\GUI\Icons\RespawnShips\RatRod_Truck_Respawncar.png</Icon>
       <CooldownSeconds>900</CooldownSeconds>
-      <Prefab>Rat-Rod_Truck_Respawncar</Prefab>
+      <Prefab>RatRod_Truck_Respawncar</Prefab>
 
       <MinimalAirDensity>0.8</MinimalAirDensity>
       <PlanetDeployAltitude>2000</PlanetDeployAltitude>
